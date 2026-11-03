@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# Keep legacy HTML page URLs working after conversion to PHP.
+RewriteRule ^(.+)\.html$ $1.php [R=301,L]

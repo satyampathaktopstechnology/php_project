@@ -1,0 +1,6 @@
+{
+  "name": "Essence Fashion Store & E-Commerce Platform",
+  "description": "A modern, responsive e-commerce platform with dynamic pages, role-based access control for Administrators, Editors, and Subscribers, real-time Razorpay payments, and comprehensive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
